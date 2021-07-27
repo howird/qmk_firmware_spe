@@ -26,7 +26,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID      0x0125
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    SouthpawDesign
-#define PRODUCT         howirdcentromere
+#define PRODUCT         howirds_keeb
 #define DESCRIPTION     q.m.k. keyboard firmware for centromere
 
 /* key matrix size */
